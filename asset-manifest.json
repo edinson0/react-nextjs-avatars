@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-nextjs-avatars/static/css/main.dd5e3968.css",
+    "main.js": "/react-nextjs-avatars/static/js/main.b78bca65.js",
+    "static/js/453.dc0e83fd.chunk.js": "/react-nextjs-avatars/static/js/453.dc0e83fd.chunk.js",
+    "index.html": "/react-nextjs-avatars/index.html",
+    "main.dd5e3968.css.map": "/react-nextjs-avatars/static/css/main.dd5e3968.css.map",
+    "main.b78bca65.js.map": "/react-nextjs-avatars/static/js/main.b78bca65.js.map",
+    "453.dc0e83fd.chunk.js.map": "/react-nextjs-avatars/static/js/453.dc0e83fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5e3968.css",
+    "static/js/main.b78bca65.js"
+  ]
+}
